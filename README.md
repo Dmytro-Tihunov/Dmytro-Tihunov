@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>👋 Hi there!</h1> 
+
+<h1>Technologies & Tools</h1>
 
 <!--
 **Dmytro-Tihunov/Dmytro-Tihunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
