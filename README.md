@@ -5,6 +5,7 @@
 <p float="left">
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=000000&color=fdff32">
 <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=000000&color=fdff32">
+  <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=000000&color=fdff32">
 <img src="https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=react&logoColor=000000&color=fdff32">
 <img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=000000&color=fdff32">
 <img src="https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite&logoColor=000000&color=fdff32">
