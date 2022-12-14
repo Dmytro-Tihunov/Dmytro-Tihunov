@@ -1,5 +1,5 @@
 <h2>Hi there!</h2> 
-<img src="https://www.codewars.com/users/Dmytro-Tihunov/badges/small">
+
 <h2>Technologies & Tools</h2>
 
 <p float="left">
@@ -16,3 +16,5 @@
 <img src="https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=node.js&logoColor=000000&color=fdff32">
 </p>
 
+<h2>?WTFJS!</h2> 
+<img src="https://www.codewars.com/users/Dmytro-Tihunov/badges/small">
