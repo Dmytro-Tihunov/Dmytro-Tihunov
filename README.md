@@ -1,5 +1,5 @@
 <h2>Hi there!</h2> 
-
+https://www.codewars.com/users/Dmytro-Tihunov/badges/small
 <h2>Technologies & Tools</h2>
 
 <p float="left">
