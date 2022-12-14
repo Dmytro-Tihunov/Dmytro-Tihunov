@@ -17,4 +17,4 @@
 </p>
 
 <h2>?WTFJS!</h2> 
-<img src="https://www.codewars.com/users/Dmytro-Tihunov/badges/small">
+<img src="[https://www.codewars.com/users/Dmytro-Tihunov/badges/small](https://www.codewars.com/users/Dmytro-Tihunov/badges/large)">
