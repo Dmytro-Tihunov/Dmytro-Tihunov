@@ -1,5 +1,5 @@
 <h2>Hi there!</h2> 
-Hey, I'm a frontend developer and javascript enthusiast. My interests include programming, web development, computer sience, open source and blogging from time to time about my journey as a developer.
+I'm a frontend developer and javascript enthusiast. My interests include programming, web development, computer sience, open source and blogging from time to time about my journey as a developer.
 
 <h2>Technologies & Tools</h2>
 
