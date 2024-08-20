@@ -18,6 +18,3 @@ I'm a frontend developer and javascript enthusiast. My interests include program
 <img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=Firebase&logoColor=000000&color=fdff32">
 <img src="https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=node.js&logoColor=000000&color=fdff32">
 </p>
-
-<h2>wtfJS?</h2> 
-<img src="https://www.codewars.com/users/Dmytro-Tihunov/badges/large">
