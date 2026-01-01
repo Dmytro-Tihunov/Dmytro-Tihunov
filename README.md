@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 <h2>Hi there!</h2> 
 I'm a frontend developer and javascript enthusiast. My interests include programming, web development, computer sience, open source and blogging from time to time about my journey as a developer.
 
